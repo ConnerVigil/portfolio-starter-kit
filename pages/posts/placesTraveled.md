@@ -10,6 +10,15 @@ author: You
 
 ## Dominican Republic
 
+<Image
+  src="/images/photo2.jpg"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+
 ## Saint Lucia
 
 ## Mexico
