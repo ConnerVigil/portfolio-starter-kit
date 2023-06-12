@@ -1,7 +1,7 @@
 ---
 title: Projects
 date: 2023/6/12
-description: some of my projects
+description: List of projects
 tag: projects
 author: You
 ---
