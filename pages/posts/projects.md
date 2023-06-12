@@ -8,6 +8,33 @@ author: You
 
 # Projects
 
+## Proxy Server
+
+- Built an HTTP proxy server using a threadpool to handle multiple concurrent requests
+- Then rebuilt it using epoll and I/O multiplexing to handle multiple concurrent requests to demonstrate the performance difference between the two
+- Learned concepts related to networking, concurrency, sockets, signals, processes, and threads
+- Part of a Systems Programming University course
+
+## Traveling Salesman Problem
+
+- Solved the traveling salesman problem using the following algorithms: branch and bound, greedy, and nearest insertion
+- Implemented in Python
+
+## Gene Sequence Alignment
+
+- Implemented dynamic programming algorithm for computing the minimal cost of aligning gene sequences and for extracting optimal alignments
+- Implemented in Python
+
+## Networking Routing
+
+- Implemented Dyskstra’s algorithm to find paths through a graph representing a network routing problem. Used two different data structures to implement a priority queue in order to see that both algorithm design and data structure implementation significantly affect performance
+- Implemented in Python
+
+## Convex Hull
+
+- Implemented a divide and conquer algorithm for finding the convex hull of a set of points and analyzed the algorithm both theoretically and empirically
+- Implemented in Python
+
 ## Sandbox 2022 Hackathon
 
 - Created the frontend of a universal flight platform “OnTheFly” mobile app with navigation capabilities
